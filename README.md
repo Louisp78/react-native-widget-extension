@@ -1,7 +1,7 @@
 # React Native Widget Extension
 ## Getting started
 Run :  
-````sh
+```sh
 npm install louisp78-react-native-widget-extension
 ```
 
